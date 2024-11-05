@@ -1,4 +1,4 @@
-export default function PostsPage() {
+export default function UserPostsPage() {
   return (
     <>
       <h1>another header</h1>
